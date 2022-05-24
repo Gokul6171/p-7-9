@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/coding/p-79"
+		},
+		{
+			"path": "../../Desktop/coding/c-79"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c-79"
+	}
+}
